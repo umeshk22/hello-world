@@ -1,3 +1,4 @@
 Thid is sample text file added to feature sprint.
 This file edited locally.
 Potential conflict are now resolved after merging.
+Online editing is not good.
